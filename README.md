@@ -10,19 +10,18 @@ The Data Analytics Dashboard is designed to help users upload, analyze, and visu
 
 Features & Functionality:
 1. Upload & Preview CSV Data
-
 Users can upload a CSV(Excel) file, and the dashboard will display the first few rows for preview.
+
 2. Data Summary & Statistics
-
 The dashboard automatically generates summary statistics like mean, min, max, and standard deviation for numerical columns.
+
 3. Correlation Heatmap
-
 A heatmap visualizes relationships between numerical columns, highlighting strong correlations.
+
 4. Distribution Analysis
-
 Users can select any numerical column to generate a histogram with a KDE (Kernel Density Estimation) curve, helping identify trends and outliers.
-5. Filtering & Data Selection
 
+5. Filtering & Data Selection
 Users can filter data based on a categorical column to analyze subsets of data.
 
 Tech Stack:
