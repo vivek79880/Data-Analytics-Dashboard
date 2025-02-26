@@ -25,7 +25,7 @@ Users can select any numerical column to generate a histogram with a KDE (Kernel
 Users can filter data based on a categorical column to analyze subsets of data.
 
 Tech Stack:
-Python Core language)
+Python (Core language)
 Streamlit (For an interactive web dashboard)
 Pandas (For data handling)
 Matplotlib & Seaborn (For visualizations)
